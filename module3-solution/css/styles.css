@@ -5,9 +5,9 @@ body {
   font-family: "Oxygen", sans-serif;
 }
 
-h1{
-    margin-top: 100px;
-    margin-bottom: 40px;
+h1 {
+  margin-top: 100px;
+  margin-bottom: 40px;
 }
 
 #collapsable-nav a {
@@ -21,15 +21,15 @@ h1{
 }
 
 #nav-list {
-    margin-top: 10px;
-  }
-  #nav-list a {
-    color: #951C49;
-    text-align: center;
-  }
-  #nav-list a:hover {
-    background: #E7E7E7;
-  }
-  #nav-list a span {
-    font-size: 1.8em;
-  }
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951c49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #e7e7e7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
